@@ -17,4 +17,4 @@ Question | Expected Output
 <!-- 13. Find every player with last name "Cooper" | Joshua Cooper, Landon Cooper, Michael Cooper, Alexander Cooper -->
 <!-- 14. Find every player with first name "Joshua" | Joshua Cooper, Joshua Hayes, Joshua Henderson, Joshua Long, Joshua Coleman, Joshua White, Joshua Parker, Joshua Smith -->
 <!-- 15. Find every player with last name "Cooper" EXCEPT FOR Joshua | Landon Cooper, Michael Cooper, Alexander Cooper -->
-16. Find all players with first name "Alexander" OR first name "Wyatt" | Wyatt Bell, Alexander Bailey, Wyatt Peterson, Alexander Wright, Wyatt Alexander, Wyatt Bennett, Alexander Parker, Alexander Adams, Alexander Walker, Alexander Flores, Alexander Cooper
+<!-- 16. Find all players with first name "Alexander" OR first name "Wyatt" | Wyatt Bell, Alexander Bailey, Wyatt Peterson, Alexander Wright, Wyatt Alexander, Wyatt Bennett, Alexander Parker, Alexander Adams, Alexander Walker, Alexander Flores, Alexander Cooper -->
